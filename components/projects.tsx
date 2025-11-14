@@ -14,16 +14,11 @@ export function Projects() {
   // 기본 데이터
   const defaultInfo = {
     title: "프로젝트",
-    subtitle: "프로젝트",
+    subtitle: "학군단 2025년 단웅무제",
     initialDisplay: 6,
     loadMoreCount: 3,
-    background: {
-      image: "",
-      video: "",
-      color: "",
-      opacity: 0.1
-    },
-    projects: [] as Array<{ image: string; video?: string; title: string; description: string }>
+    background: {"image":"","video":"","color":"","opacity":0.1},
+    projects: [{"image":"/uploads/project-1763093466616-1763093468894.jpg","video":"","title":"2025년 학군단 단웅무제","description":"후보생 공연, 학술 토론회"}] as Array<{ image: string; video?: string; title: string; description: string }>
   }
 
   const [projectsInfo, setProjectsInfo] = useState(defaultInfo)
