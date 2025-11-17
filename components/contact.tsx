@@ -45,7 +45,7 @@ export function Contact() {
     workTime: "평일 09:00 - 17:00",
     responseTime: "24시간 이내 응답",
     sectionTitle: "연락처",
-    sectionSubtitle: "프로젝트 문의나 협업 제안을 기다리고 있습니다. 편하신 방법으로 연락주세요!",
+    sectionSubtitle: "학군장교(ROTC) 모집, 선발에 관심있으신 1,2학년 재학생들의 많은 관심 바랍니다.",
     qrTitle: "QR 코드로 연락처 저장",
     qrSubtitle: "스캔하면 연락처가 자동으로 저장됩니다",
     bottomMessage: "R  O T C",

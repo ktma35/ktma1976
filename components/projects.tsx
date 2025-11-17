@@ -18,7 +18,7 @@ export function Projects() {
     initialDisplay: 6,
     loadMoreCount: 3,
     background: {"image":"","video":"","color":"","opacity":0.1},
-    projects: [{"image":"/uploads/project-1763093466616-1763093468894.jpg","video":"","title":"2025년 학군단 단웅무제","description":"후보생 공연, 학술 토론회"}] as Array<{ image: string; video?: string; title: string; description: string }>
+    projects: [{"image":"/uploads/project-1763093466616-1763093468894.jpg","video":"","title":"2025년 학군단 단웅무제","description":"후보생 공연, 학술 토론회"},{"image":"/uploads/project-1763341564857-1763341564894.jpeg","video":"","title":"게릴라","description":"제주도 훈련"},{"image":"/uploads/project-1763341635371-1763341635406.jpeg","video":"","title":"무창포","description":"해상훈련"}] as Array<{ image: string; video?: string; title: string; description: string }>
   }
 
   const [projectsInfo, setProjectsInfo] = useState(defaultInfo)
