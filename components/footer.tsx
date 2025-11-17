@@ -34,9 +34,9 @@ export function Footer() {
     location: "용인시 수지구 죽전로 152",
     copyright: "경기남부권역 학군단",
     showMadeWith: true,
-    madeWithLocation: "Mrbaeksang",
+    madeWithLocation: "Park shi-keun",
     showTemplateCredit: true,
-    templateCreator: {"name":"백상","youtube":"https://www.youtube.com/@Mrbaeksang95/videos","website":"https://devcom.kr/","email":"qortkdgus95@gmail.com"},
+    templateCreator: {"name":"ktma35","youtube":"https://www.youtube.com","website":"https://devcom.kr/","email":"ktmapark@naver.com"},
     showScrollTop: true
   }
 
@@ -265,3 +265,4 @@ export function Footer() {
     </footer>
   )
 }
+
