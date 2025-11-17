@@ -32,11 +32,11 @@ export function Footer() {
     phone: "010-5075-****",
     email: "ktmapark@naver.com",
     location: "용인시 수지구 죽전로 152",
-    copyright: "경기남부권역 학군단",
+    copyright: "경기남부권역 제125학생군사교육단 예)소령 박시근",
     showMadeWith: true,
-    madeWithLocation: "Park shi-keun",
+    madeWithLocation: "ktma1976",
     showTemplateCredit: true,
-    templateCreator: {"name":"ktma35","youtube":"https://www.youtube.com","website":"https://devcom.kr/","email":"ktmapark@naver.com"},
+
     showScrollTop: true
   }
 
@@ -265,4 +265,5 @@ export function Footer() {
     </footer>
   )
 }
+
 
