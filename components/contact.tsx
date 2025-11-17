@@ -37,7 +37,7 @@ export function Contact() {
     name: "박시근",
     title: "교관/훈육관/행정실장",
     company: "단국대학교 제125학생군사교육단",
-    experience: "10년 경력",
+    experience: "20년 경력",
     phone: "010-5075-****",
     email: "ktmapark@naver.com",
     website: "",

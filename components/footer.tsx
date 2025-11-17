@@ -31,7 +31,7 @@ export function Footer() {
     contactTitle: "연락처",
     phone: "010-5075-****",
     email: "ktmapark@naver.com",
-    location: "경기도 안양시 만안구 안양로 **",
+    location: "용인시 수지구 죽전로 152",
     copyright: "경기남부권역 학군단",
     showMadeWith: true,
     madeWithLocation: "Mrbaeksang",

@@ -36,11 +36,11 @@ export function Hero() {
   const defaultSocialLinks = [{"name":"Instagram","icon":"instagram","url":"https://instagram.com/username"},{"name":"YouTube","icon":"youtube","url":"https://youtube.com/@username"}]
   
   const defaultInfo = {
-    greeting: "안녕하세요~~~",
+    greeting: "단결! 안녕 하십니까?",
     name: "박시근",
     title: "단국대 학생군사교육단 교관입니다.",
     description: "학군장교 후보생을 양성하고 초급장교로 임관시키는 역할을 합니다.",
-    profileImage: "",
+    profileImage: "/uploads/hero-profile-1763342110273.jpeg",
     backgroundImage: "",
     backgroundVideo: "",
     backgroundOpacity: 0.1,
